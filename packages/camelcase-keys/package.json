@@ -1,0 +1,10 @@
+{
+  "name": "@cjs-exporter/camelcase-keys",
+  "version": "8.0.2",
+  "main": "dist/index.js",
+  "author": "Isaac Hinman <isaac@isaachinman.com>",
+  "license": "MIT",
+  "dependencies": {
+    "camelcase-keys": "8.0.2"
+  }
+}
