@@ -1,0 +1,25 @@
+{
+  "name": "cjs-exporter",
+  "version": "0.1.0",
+  "repository": "git@github.com:isaachinman/cjs-exporter.git",
+  "author": "Isaac Hinman <isaac@isaachinman.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "esr transpilePackages.ts",
+    "lint": "eslint transpilePackages.ts",
+    "publish": "lerna publish"
+  },
+  "devDependencies": {
+    "@types/node": "^18.14.1",
+    "@typescript-eslint/eslint-plugin": "^5.53.0",
+    "@typescript-eslint/parser": "^5.53.0",
+    "esbuild": "^0.17.10",
+    "esbuild-runner": "^2.2.2",
+    "eslint": "^8.34.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-prefer-arrow": "^1.2.3",
+    "eslint-plugin-sort-destructure-keys": "^1.5.0",
+    "eslint-plugin-sort-keys-fix": "^1.1.2",
+    "eslint-plugin-typescript-sort-keys": "^2.1.0"
+  }
+}

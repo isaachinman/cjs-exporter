@@ -1,0 +1,10 @@
+{
+  "name": "@cjs-exporter/globby",
+  "version": "13.1.3",
+  "main": "dist/index.js",
+  "author": "Isaac Hinman <isaac@isaachinman.com>",
+  "license": "MIT",
+  "dependencies": {
+    "globby": "13.1.3"
+  }
+}
