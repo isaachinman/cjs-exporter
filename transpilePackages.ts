@@ -1,11 +1,11 @@
-import path from 'path'
 import fs from 'fs'
+import path from 'path'
 
 import { build } from 'esbuild'
 
 const packages = fs.readdirSync(
   path.resolve('packages'), {
-    withFileTypes: true
+    withFileTypes: true,
   })
   .filter(item => item.isDirectory())
   .map(item => item.name)

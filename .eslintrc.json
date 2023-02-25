@@ -99,7 +99,6 @@
     "import/first": 2,
     "import/no-amd": 2,
     "import/no-commonjs": 2,
-    "import/no-default-export": 2,
     "import/no-nodejs-modules": 0,
     "import/no-unresolved": 0,
     "import/named": 0,

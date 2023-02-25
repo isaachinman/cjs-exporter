@@ -1,0 +1,10 @@
+{
+  "name": "@cjs-exporter/got",
+  "version": "12.5.3",
+  "main": "dist/index.js",
+  "author": "Isaac Hinman <isaac@isaachinman.com>",
+  "license": "MIT",
+  "dependencies": {
+    "got": "12.5.3"
+  }
+}
