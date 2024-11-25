@@ -1,10 +1,10 @@
 {
   "name": "@cjs-exporter/p-map",
-  "version": "5.5.0",
+  "version": "7.0.2",
   "main": "dist/index.js",
   "author": "Isaac Hinman <isaac@isaachinman.com>",
   "license": "MIT",
   "dependencies": {
-    "p-map": "5.5.0"
+    "p-map": "7.0.2"
   }
 }
